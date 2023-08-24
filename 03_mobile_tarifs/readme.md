@@ -1,4 +1,4 @@
-# Mobile Tarif Determination
+# Mobile Tariff Determination
 
 **Task:**
 
